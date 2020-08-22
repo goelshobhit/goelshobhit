@@ -1,6 +1,6 @@
 ### Hi there, I'm [shobhitgoel27][website] 👋
 
-[![Website](https://img.shields.io/website?label=shobhitgoel27.com&style=for-the-badge&url=https%3A%2F%2Fshobhitgoel27.com)](https://shobhitgoel27.com)
+[![Website](https://img.shields.io/website?label=shobhitgoel27.com&style=for-the-badge&url=https%3A%2F%2Fshobhitgoel27.com)](https://shobhitgoel27.gitlab.io/aboutme/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/shobhitgoel27?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fshobhitgoel27&screen_name=shobhitgoel27)
 
 ## I'm a Developer!
